@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>Ananim353.RandomPlus.Russian</packageId>
+	<name>RandomPlus[Russian]</name>
+	<author>Ananim353</author>
+	<url>https://github.com/Ananim353/RandomPlus-Russian-</url>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.4</li>
+		<li>1.3</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<description>
+Позволяет игрокам устанавливать минимальные требования для генерации колонистов при использовании кнопки "Случайно". Мод будет продолжать генерировать новых колонистов пока не найдет поселенца подходящего под требования поиска или пока не закончится лимит генераций
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
